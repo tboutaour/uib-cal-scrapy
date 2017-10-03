@@ -10,11 +10,6 @@ echo
 echo
 echo
 echo
-
-pip install Scrapy
-pip install pandas
-
-echo
 echo
 echo
 pwd=$(pwd)
