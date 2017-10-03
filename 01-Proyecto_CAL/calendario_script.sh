@@ -2,9 +2,6 @@ echo "--------------------------------------------------------"
 echo "Aplicación para la creación automática del horario UIB: "
 echo "--------------------------------------------------------"
 echo
-echo "Será necesaria la instalación de recursos, una vez acabado el proceso,"
-echo "pueden ser borrados"
-echo
 echo
 echo
 echo
