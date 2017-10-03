@@ -1,6 +1,6 @@
 # Cal
 Repositorio que contiene código Scrapy para obtener horario de la UIB.
-Con este código se obtiene un archivo .csv que puede ser importado a diversas plataformas.
+Con este código se obtiene un archivo .csv con el formato óptimo para ser introducido en Google Calendar.
 
 Librerias necesarias para la utilización del script:
 ·Scrapy
